@@ -45,6 +45,11 @@ Models are evaluated using:
   Deployment into CRM
   Integration with real-time data and monitoring (drift, performance decay)
 
+👤 Author
+
+  Paul Stanley
+  Data Scientist
+
 📬 Contact
 
   If you have feedback or suggestions, feel free to connect or open an issue.
