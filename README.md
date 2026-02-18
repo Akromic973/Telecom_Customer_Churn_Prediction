@@ -24,8 +24,11 @@
 
   Programming: Python
   Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, 
-  Models: Naive Bayes, K-Nearest Neighbors, SUpport Vector Machine, Decision Tree, Random Forest,
+  Models: Naive Bayes, K-Nearest Neighbors, Support Vector Machine, Decision Tree, Random Forest,
   AdaBoost, Gradient Boosting, Multilayer Perceptron 
+  Web Framework: Gradio (Frontend), FastAPI (Backend)
+  Containerization: Docker
+    
 
 📈 Model Evaluation
 
